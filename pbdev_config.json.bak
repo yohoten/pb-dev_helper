@@ -1,0 +1,17 @@
+{
+  "pb_ide_path": "F:\\PB10\\PowerBuilder10-Portable",
+  "pb_runtime_path": "F:\\PB10\\PowerBuilder10-Portable",
+  "pb_version": "10",
+  "export_encoding": 1,
+  "export_headers": true,
+  "export_include_binary": true,
+  "clobber_mode": 2,
+  "backup_before_import": true,
+  "last_pbl_path": "",
+  "last_export_dir": "",
+  "last_import_dir": "",
+  "custom_pb_paths": [
+    "F:\\PB10\\PowerBuilder10-Portable"
+  ],
+  "version": "1.0"
+}
